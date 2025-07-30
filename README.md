@@ -30,6 +30,7 @@ README.md: Este documento aclaratorio.
 
 - Google colab
 
+--- 
 
 Notas
 Por ahora el análisis está redactado en español. Estoy trabajando activamente en mejorar mi inglés para futuras publicaciones internacionales.
