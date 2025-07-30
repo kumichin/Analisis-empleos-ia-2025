@@ -35,6 +35,8 @@ README.md: Este documento aclaratorio.
 Notas
 Por ahora el análisis está redactado en español. Estoy trabajando activamente en mejorar mi inglés para futuras publicaciones internacionales.
 
+### Si te gusta mi trabajo o te es útil, dame una estrella. No cuesta nada
+
 📚 Referencias
 
 Dataset original:
