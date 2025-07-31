@@ -67,7 +67,7 @@ pio.write_image(fig, "Top_10_ubicaciones_con_más_ofertas.png", format="png", wi
 # Mostrar imagen estática justo debajo
 display(Image("Top_10_ubicaciones_con_más_ofertas.png"))
 
-´´´
+```
 #### Es tal como lo dice el mismo comentario, debes de descomentar `fig.show()` y comentar `pio.write_image(fig, "Top_10_ubicaciones_con_más_ofertas.png", format="png", width=1100, height=700)` y `display(Image("Top_10_ubicaciones_con_más_ofertas.png"))` así aparece la interactiva y se va la imagen fija.
 
 ---
