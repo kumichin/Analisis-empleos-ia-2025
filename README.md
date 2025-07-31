@@ -5,7 +5,7 @@
 ---
 ## Contenido del repositorio
 
-- [Analisis_empleos_IA_2025_EDA_visualizaciones.ipynb](https://github.com/kumichin/Analisis-empleos-ia-2025/blob/main/Analisis_empleos_IA_2025_EDA_v2_visualizaciones.ipynb): Notebook principal con el análisis exploratorio, visualizaciones y modelo.
+- [Analisis_empleos_IA_2025_EDA_visualizaciones.ipynb](https://github.com/kumichin/Analisis-empleos-ia-2025/blob/main/Analisis_empleos_IA_2025_EDA_visualizaciones.ipynb): Notebook principal con el análisis exploratorio, visualizaciones y modelo.
 
 - [Data/](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main/Data): Carpeta con un dataset adicional empleado para el mapa interactivo hecho con plotly.
 
