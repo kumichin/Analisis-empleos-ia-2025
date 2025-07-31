@@ -9,7 +9,7 @@
 
 - Data/: Carpeta con un dataset adicional empleado para el mapa interactivo hecho con plotly.
 
-- IMG/: Carpeta donde estan guardadas las graficas como archivos de imagen
+- [img/](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main/img): Carpeta donde estan guardadas las graficas como archivos de imagen
 
 - README.md: Este documento aclaratorio.
 
@@ -97,6 +97,9 @@ El modelo usado es random forest. Los pasos que seguí para su creación y entre
 
 ## Gráficas que encontrarás en el análisis
 
+#### 
+
+![Top 10 ubicaciones con más ofertas](img/Top 10 ubicaciones con más ofertas.png)
 
 
 ## Contribuyendo
