@@ -13,7 +13,6 @@
 
 - README.md: Este documento aclaratorio.
 
----
 
 ## Este análisis busca explorar las principales tendencias y patrones del mercado laboral en IA y Data Science durante 2025 intentando responder a las siguientes preguntas:
 
@@ -70,12 +69,11 @@ display(Image("Top_10_ubicaciones_con_más_ofertas.png"))
 ```
 #### Es tal como lo dice el mismo comentario, debes de descomentar `fig.show()` y comentar `pio.write_image(fig, "Top_10_ubicaciones_con_más_ofertas.png", format="png", width=1100, height=700)` y `display(Image("Top_10_ubicaciones_con_más_ofertas.png"))` así aparece la interactiva y se va la imagen fija.
 
----
+
 
 ## Pruebas
 Este proyecto no tiene tests automatizados, ya que es un análisis exploratorio Sin embargo puedes probar el modelo con nuevos datos de entrada para ver su eficacia con otros datos.
 
----
 
 ## Modelado
 
