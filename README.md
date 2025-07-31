@@ -99,7 +99,7 @@ El modelo usado es random forest. Los pasos que seguí para su creación y entre
 
 #### 
 
-![Top 10 ubicaciones con más ofertas](img/Top 10 ubicaciones con más ofertas.png)
+[Top 10 ubicaciones con más ofertas](img/Top 10 ubicaciones con más ofertas.png)
 
 
 ## Contribuyendo
