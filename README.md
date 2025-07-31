@@ -134,9 +134,9 @@ Este repositorio se publica únicamente con fines educativos y de portafolio.
 
 ---
 
-## Expresiones de Gratitud 🎁
+## Expresiones de Gratitud 
 
-Si te gustó el análisis, 🌟 dale una estrella al repo.
+Si te gustó el análisis, dale una estrella al repo.
 
 Menciona o comparte el proyecto si te resultó útil.
 
@@ -145,7 +145,7 @@ Comentarios y feedback siempre bienvenidos.
 
 
 
-## 📚 Referencias al Dataset usado
+##  Referencias al Dataset usado
 
 Dataset original:
 
