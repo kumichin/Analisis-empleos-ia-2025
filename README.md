@@ -95,11 +95,26 @@ El modelo usado es random forest. Los pasos que seguí para su creación y entre
 
 ---
 
-## Gráficas que encontrarás en el análisis
+## Gráficas
 
-#### 
+> A continuación las visualizaciones del análisis. Recuerda que todas son interactivas en el notebook, aunque aquí se muestran en formato imagen estática por limitaciones de GitHub.
 
+#### Análisis resudual del modelo
+
+![Analisis_residual_del_modelo.png](img/Analisis_residual_del_modelo.png)
+
+#### Distribución salarial diaria por empresa (La base de datos esta llena de seniority, especializaciones muy técnicas...)
+![Distribución_de_salario_diario_por_empresa.png](img/Distribución_de_salario_diario_por_empresa.png)
+
+#### DIstribución de compañias por ciudad con tamaño según el número de ofertas (El tamaño de los circulos es directamente proporcional al número de ofertas)
+![Distribución_de_compañias_por_ciudad_con_tamaño_según_número_de_ofertas.png](img/Distribución_de_compañias_por_ciudad_con_tamaño_según_número_de_ofertas.png)
+
+#### Habilidades más demandadas según esa base de datos
+![Habilidades_técnicas_más_mencionadas.png](img/Habilidades_técnicas_más_mencionadas.png)
+
+#### La 10 Ubicaciones con más ofertas de trabajo.
 ![Top 10 ubicaciones con más ofertas](img/Top_10_ubicaciones_con_mas_ofertas.png)
+
 
 
 ## Contribuyendo
