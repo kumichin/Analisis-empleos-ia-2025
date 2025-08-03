@@ -67,7 +67,7 @@ pio.write_image(fig, "Top_10_ubicaciones_con_más_ofertas.png", format="png", wi
 display(Image("Top_10_ubicaciones_con_más_ofertas.png"))
 
 ```
-#### Es tal como lo dice el mismo comentario, debes de descomentar `fig.show()` y comentar `pio.write_image(fig, "Top_10_ubicaciones_con_más_ofertas.png", format="png", width=1100, height=700)` y `display(Image("Top_10_ubicaciones_con_más_ofertas.png"))` así aparece la interactiva y se va la imagen fija.
+#### Es tal como lo dice el mismo comentario, debes de descomentar `fig.show()` y comentar `pio.write_image(fig, "Top_10_ubicaciones_con_más_ofertas.png", format="png", width=1100, height=700)` y `display(Image("Top_10_ubicaciones_con_más_ofertas.png"))` así aparece la interactividad y se va la imagen fija.
 
 
 
@@ -99,20 +99,20 @@ El modelo usado es random forest. Los pasos que seguí para su creación y entre
 
 > A continuación las visualizaciones del análisis. Recuerda que todas son interactivas en el notebook, aunque aquí se muestran en formato imagen estática por limitaciones de GitHub.
 
-### Análisis resudual del modelo
+### Análisis residual del modelo
 
 ![Analisis_residual_del_modelo.png](img/Analisis_residual_del_modelo.png)
 
 ### Distribución salarial diaria por empresa (La base de datos esta llena de seniority, especializaciones muy técnicas...)
 ![Distribución_de_salario_diario_por_empresa.png](img/Distribución_de_salario_diario_por_empresa.png)
 
-### DIstribución de compañias por ciudad con tamaño según el número de ofertas (El tamaño de los circulos es directamente proporcional al número de ofertas)
+### Distribución de compañias por ciudad con tamaño según el número de ofertas (El tamaño de los circulos es directamente proporcional al número de ofertas)
 ![Distribución_de_compañias_por_ciudad_con_tamaño_según_número_de_ofertas.png](img/Distribución_de_compañias_por_ciudad_con_tamaño_según_número_de_ofertas.png)
 
 ### Habilidades más demandadas según esa base de datos
 ![Habilidades_técnicas_más_mencionadas.png](img/Habilidades_técnicas_más_mencionadas.png)
 
-### La 10 Ubicaciones con más ofertas de trabajo.
+### Las 10 Ubicaciones con más ofertas de trabajo.
 ![Top 10 ubicaciones con más ofertas](img/Top_10_ubicaciones_con_mas_ofertas.png)
 
 
