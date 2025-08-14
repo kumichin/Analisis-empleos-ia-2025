@@ -3,9 +3,9 @@
 ## Este proyecto analiza más de 700 ofertas reales en el sector de la Inteligencia Artificial y Ciencia de Datos, centrado en el mercado laboral de EE. UU. en 2025. Se exploran tendencias salariales, roles más demandados, patrones geográficos y se entrena un modelo predictivo basado en Random Forest.
 
 ---
-> Este proyecto utiliza un conjunto de datos público obtenido de Kaggle:
-[700+ JOBs Data of AI & Data Fields | 2025](https://www.kaggle.com/datasets/princekhunt19/700-jobs-data-of-ai-and-data-fields-2025)
-Recopilado por Príncipe Khunt y disponible bajo la licencia DbCL v1.0.
+> **Fuente de los datos:**  
+> Dataset público de Kaggle: [**700+ JOBs Data of AI & Data Fields | 2025**](https://www.kaggle.com/datasets/princekhunt19/700-jobs-data-of-ai-and-data-fields-2025)  
+> Recopilado por *Príncipe Khunt* — Licencia **DbCL v1.0**.
 
 ---
 ## Contenido del repositorio
