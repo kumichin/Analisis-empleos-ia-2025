@@ -5,7 +5,7 @@
 ---
 > **Fuente de los datos:**  
 > Dataset público de Kaggle: [**700+ JOBs Data of AI & Data Fields | 2025**](https://www.kaggle.com/datasets/princekhunt19/700-jobs-data-of-ai-and-data-fields-2025)  
-> Recopilado por *Príncipe Khunt* — Licencia **DbCL v1.0**.
+> Recopilado por *Prince Khunt* — Licencia **DbCL v1.0**.
 
 ---
 ## Contenido del repositorio
